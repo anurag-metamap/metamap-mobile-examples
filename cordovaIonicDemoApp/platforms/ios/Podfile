@@ -1,5 +1,4 @@
-platform :ios, '11.4'
-use_frameworks!
+platform :ios, '12.0'
 target 'MyApp' do
-	pod 'Mati-Global-ID-SDK'
+    pod 'MetaMap-Global-ID-SDK'
 end

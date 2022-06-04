@@ -1,2 +1,2 @@
 ${PODS_ROOT}/Target Support Files/Pods-MyApp/Pods-MyApp-frameworks.sh
-${PODS_XCFRAMEWORKS_BUILD_DIR}/Mati-Global-ID-SDK/MatiSDK.framework/MatiSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MetaMap-Global-ID-SDK/MetaMapSDK.framework/MetaMapSDK
