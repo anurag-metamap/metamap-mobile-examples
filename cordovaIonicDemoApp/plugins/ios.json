@@ -21,14 +21,7 @@
     },
     "cordova-plugin-statusbar": {
       "PACKAGE_NAME": "com.metamap.ionicdemoapp"
-    },
-    "mati-global-id-sdk-cordova-plugin": {
-      "PACKAGE_NAME": "com.metamap.ionicdemoapp"
     }
   },
-  "dependent_plugins": {
-    "cordova-plugin-cocoapod-support": {
-      "PACKAGE_NAME": "com.metamap.ionicdemoapp"
-    }
-  }
+  "dependent_plugins": {}
 }

@@ -52,7 +52,7 @@
     "karma-coverage-istanbul-reporter": "~3.0.2",
     "karma-jasmine": "^5.0.1",
     "karma-jasmine-html-reporter": "^2.0.0",
-    "mati-global-id-sdk-cordova-plugin": "git+https://github.com/GetMati/mati-cordova-plugin.git",
+    "metamap-cordova-plugin": "^1.0.79",
     "protractor": "~7.0.0",
     "ts-node": "^10.8.0",
     "tslint": "~6.1.0",
@@ -65,8 +65,7 @@
       "cordova-plugin-device": {},
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-ionic-webview": {},
-      "cordova-plugin-ionic-keyboard": {},
-      "mati-global-id-sdk-cordova-plugin": {}
+      "cordova-plugin-ionic-keyboard": {}
     },
     "platforms": [
       "ios",

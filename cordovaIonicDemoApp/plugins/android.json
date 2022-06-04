@@ -23,7 +23,7 @@
     "cordova-plugin-statusbar": {
       "PACKAGE_NAME": "com.metamap.ionicdemoapp"
     },
-    "mati-global-id-sdk-cordova-plugin": {
+    "metamap-cordova-plugin": {
       "PACKAGE_NAME": "com.metamap.ionicdemoapp"
     }
   },
